@@ -1,2 +1,2 @@
-export SPACK_USER_CONFIG_PATH=/apps/hohgant/se/config
+export SPACK_SYSTEM_CONFIG_PATH=/apps/hohgant/se/spack-config
 source /apps/hohgant/se/spack/share/spack/setup-env.sh
